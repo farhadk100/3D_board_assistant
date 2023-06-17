@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6615281795",
+    "project_id": "board-assistant",
+    "storage_bucket": "board-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6615281795:android:f37c0c6b4eb1a56b80ebb6",
+        "android_client_info": {
+          "package_name": "com.example.board_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6615281795-dqkiii0jh6uebqv7rnq0o05koaa5rpsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOPVQlg86XzHjO3qy4-eApBnKIYzE1gu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6615281795-dqkiii0jh6uebqv7rnq0o05koaa5rpsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
