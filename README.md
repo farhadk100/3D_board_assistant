@@ -22,3 +22,12 @@ To use and play this project the following is required:
 ## Extending the project
 
 To extend and build upon this project under Creative Commons License, you can use the application source code. For a successful build of the application Fluter version 3.3.8 has been tested. Compatibility with other versions is not tested. 3D models are also provided through assets/models and can be used for extending and building upon.
+
+## Credtis
+
+Application and 3D Design: Ahmad Kalatiani
+2D Design: Magdalena Strobl
+Game design: Ahmad Kalatiani and Magdalena Strobl
+Supervision: Wilfried Elmenreich
+
+University of Klagenfurt
