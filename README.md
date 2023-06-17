@@ -19,6 +19,7 @@ To use and play this project the following is required:
 - The application can further be downloaded from apk folder for accessibility and/or more possibilities on the game
   - The webversion of the application can be used under [this link](http://board-assistant.web.app) (offers limited accessibility options)
 
+_Note: The number of prints of the 3D models for player pieces, HP pieces and weapon pieces can be reduced to less depending on how many players you want to play with. The suggested numbers are for playing with upto 4 players._
 ## Extending the project
 
 To extend and build upon this project under Creative Commons License, you can use the application source code. For a successful build of the application Fluter version 3.3.8 has been tested. Compatibility with other versions is not tested. 3D models are also provided through assets/models and can be used for extending and building upon.
@@ -26,8 +27,11 @@ To extend and build upon this project under Creative Commons License, you can us
 ## Credtis
 
 Application and 3D Design: Ahmad Kalatiani
+
 2D Design: Magdalena Strobl
-Game design: Ahmad Kalatiani and Magdalena Strobl
+
+Game Design: Ahmad Kalatiani _and_ Magdalena Strobl
+
 Supervision: Wilfried Elmenreich
 
-University of Klagenfurt
+**University of Klagenfurt**
